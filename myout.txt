@@ -1,0 +1,19 @@
+../../Instances/berlin10_d5.tsp
+../../Instances/berlin10_d5.tsp
+---------------------------------------------../../Instances/berlin10_d5.tsp
+../../Instances/berlin10_d5.tsp
+
+Instance	-> berlin10_d5
+---------------------------------------------
+Time limit	->60
+../../Instances/berlin10_d5.tsp
+../../Instances/berlin10_d5.tsp
+../../Instances/berlin10_d5.tsp
+../../Instances/berlin10_d5.tsp
+Hello world from processor mkl-GE60-2PE, manager rank 1 out of 8 processors
+Hello world from processor mkl-GE60-2PE, slave rank 2 out of 8 processors
+Hello world from processor mkl-GE60-2PE, slave rank 3 out of 8 processors
+Hello world from processor mkl-GE60-2PE, slave rank 4 out of 8 processors
+Hello world from processor mkl-GE60-2PE, slave rank 6 out of 8 processors
+Hello world from processor mkl-GE60-2PE, slave rank 7 out of 8 processors
+Hello world from processor mkl-GE60-2PE, slave rank 5 out of 8 processors
